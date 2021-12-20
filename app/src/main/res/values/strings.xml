@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Payze-example</string>
+    <string name="number">number</string>
+    <string name="make_payment">make payment</string>
+    <string name="cvv">cvv</string>
+    <string name="holder">holder</string>
+    <string name="month">month</string>
+    <string name="success_msg">Successfully Done</string>
+    <string name="error_msg">Failure: code:%d, Error: %s</string>
+    <string name="year">year</string>
+    <string name="fill_card_info">Fill Card Info</string>
+    <string name="transaction_id">transaction ID</string>
+    <string name="slash">/</string>
+<!--    <string name="default_transaction_id">8aa8ecb4-1575-40bb-99b9-0528e10a5280</string>-->
+    <string name="default_transaction_id">83ea9e44-e535-4246-8af9-e8e6e7f87ec2</string>
+</resources>
